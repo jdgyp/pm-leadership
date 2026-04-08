@@ -33,17 +33,17 @@ Effective product leadership isn't just about shipping features — it's about c
 ### 1. Set Up for Success
 The first responsibility of a product leader is to remove ambiguity. Teams that lack context, clear goals, or role clarity burn time on the wrong things. This pillar covers how to establish the foundation for a high-performing product function — from team structure and onboarding, to goal-setting and stakeholder maps.
 
-→ [Full framework: Set Up for Success](frameworks/01-set-up-for-success.md)
+→ [Full framework: Set Up for Success](01-frameworks/01-set-up-for-success.md)
 
 ### 2. Driving Right Behaviours
 Strategy dies in execution. This pillar focuses on the habits, norms, and accountability structures that keep a team moving in the right direction — not through micromanagement, but through creating an environment where the right behaviours emerge naturally.
 
-→ [Full framework: Driving Right Behaviours](frameworks/02-driving-right-behaviours.md)
+→ [Full framework: Driving Right Behaviours](01-frameworks/02-driving-right-behaviours.md)
 
 ### 3. Working & Decision-Making Frameworks
 Product teams face a constant stream of decisions under uncertainty. This pillar captures the repeatable frameworks used to prioritise, trade off, and move forward with confidence — even when the data is incomplete.
 
-→ [Full framework: Working & Decision-Making Frameworks](frameworks/03-decision-making-frameworks.md)
+→ [Full framework: Working & Decision-Making Frameworks](01-frameworks/03-decision-making-frameworks.md)
 
 ---
 
@@ -66,8 +66,8 @@ Product leadership is largely an exercise in leading without authority. This mea
 
 | Template | Description |
 |---|---|
-| [PRD Template](templates/prd-template.md) | Product Requirements Document for defining scope and success criteria |
-| [Roadmap Template](templates/roadmap-template.md) | Outcome-based roadmap structure with confidence ratings |
+| [PRD Template](02-templates/prd-template.md) | Product Requirements Document for defining scope and success criteria |
+| [Roadmap Template](02-templates/roadmap-template.md) | Outcome-based roadmap structure with confidence ratings |
 
 ---
 
@@ -75,15 +75,15 @@ Product leadership is largely an exercise in leading without authority. This mea
 
 | Case Study | Summary |
 |---|---|
-| [Realigning a Drifting Roadmap](case-studies/01-realigning-a-drifting-roadmap.md) | How to reset direction when a product team has lost focus on outcomes |
-| [Shipping with Cross-Functional Alignment](case-studies/02-cross-functional-alignment.md) | Building shared ownership across engineering, design, and commercial teams |
+| [Realigning a Drifting Roadmap](03-case-studies/01-realigning-a-drifting-roadmap.md) | How to reset direction when a product team has lost focus on outcomes |
+| [Shipping with Cross-Functional Alignment](03-case-studies/02-cross-functional-alignment.md) | Building shared ownership across engineering, design, and commercial teams |
 
 ---
 
 ## How to Use This Repo
 
 - **New to the framework?** Start with the README (you're here), then read each pillar in order.
-- **Looking for a specific tool?** Jump directly to the [templates](templates/) or [frameworks](frameworks/) folders.
+- **Looking for a specific tool?** Jump directly to the [templates](02-templates/) or [frameworks](01-frameworks/) folders.
 - **Applying this to your team?** The case studies show how the pillars work in practice. Adapt freely.
 
 ---
