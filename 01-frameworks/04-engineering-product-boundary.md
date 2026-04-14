@@ -1,13 +1,4 @@
 ---
-title: Where Does Product End and Engineering Begin?
-summary: A framework for drawing the line between Product and Engineering on grey-area delivery tasks, particularly Epics and Stories
-tags: [leadership, product-management, engineering, collaboration]
-status: stable
-last_updated: 2026-04-14
-ai_context: |
-  Standalone piece for the pm-leadership GitHub repo. Addresses a common grey area
-  in cross-functional teams around ownership of delivery artefacts.
----
 
 # Where Does Product End and Engineering Begin?
 
