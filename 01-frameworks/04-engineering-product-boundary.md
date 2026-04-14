@@ -11,10 +11,10 @@ Many teams default to "Product writes everything." This feels clean but creates 
 | Artefact | Owner | Why |
 |---|---|---|
 | Problem statement / opportunity | Product | PM owns the "what and why" |
-| Epic definition & scope | Product + Tech Lead | Shared — product sets direction, engineering defines boundaries |
-| User Stories | Negotiable — see below | Depends on team maturity |
+| Epic definition & scope | Product + Tech Lead | Shared - product sets direction, engineering defines boundaries |
+| User Stories | Negotiable - see below | Depends on team maturity |
 | Acceptance Criteria | Product drafts, Engineering validates | Product owns the "done" bar, Eng catches edge cases |
-| Technical tasks / sub-tasks | Engineering | Implementation detail — PM shouldn't own this |
+| Technical tasks / sub-tasks | Engineering | Implementation detail - PM shouldn't own this |
 
 ## On Stories specifically
 
