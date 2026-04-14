@@ -20,8 +20,8 @@ Many teams default to "Product writes everything." This feels clean but creates 
 
 - **Mature teams:** Engineers write their own stories from a well-defined Epic. PM reviews for alignment.
 - **Earlier-stage teams:** PM writes stories to model good structure, then hands over as the team builds the muscle.
-- The goal is always to *reduce PM as a bottleneck* — not to abdicate clarity.
+- The goal is always to *reduce PM as a bottleneck* - not to abdicate clarity.
 
 ## The principle
 
-> Product owns the problem. Engineering owns the solution. Stories sit at the boundary — write them together until you don't need to.
+> Product owns the problem. Engineering owns the solution. Stories sit at the boundary - write them together until you don't need to.
