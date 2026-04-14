@@ -14,6 +14,13 @@ Every requirement, no matter where it's raised, must land in one place. Everythi
 
 ---
 
+## JPD Is The Tool of Choice for New Requirements
+
+Jira Product Discovery should be used for requirements tracking as it is purpose-built for this and will handle status, prioritisation, and linking to delivery Epics more cleanly.
+
+If JDP isn't available, or is being used for alternative purposes, then using a Jira Epic is a work around to keeps everything visible, searchable, and inside a widely used tool.
+---
+
 ## The Setup
 
 ### 1. Manual input or Copilot as the intake layer
@@ -22,7 +29,7 @@ Microsoft Copilot captures requirements as they surface in meetings and conversa
 
 **Rule:** Requirements captured by Copilot must be processed into Jira before end of day. Copilot is intake, not storage.
 
-### 2. A single Jira Epic as the requirements registry
+### 2. JDP or a single Jira Epic as the requirements registry
 
 Create one Epic titled **"Requirements Backlog"** (or similar). All requirements live here as Stories, with a label or custom field tracking their lifecycle status.
 
@@ -66,13 +73,6 @@ Raised → Triaged → Active | Paused | Declined → Done
 3. Check for stories with no owner - assign them
 4. Flag anything that should move into active sprint planning
 
----
-
-## When JPD Becomes Available
-
-This setup is a pragmatic workaround. When Jira Product Discovery is available for requirements tracking, migrate the registry there - JPD is purpose-built for this and will handle status, prioritisation, and linking to delivery Epics more cleanly.
-
-Until then, the Jira Epic approach keeps everything visible, searchable, and inside the tool the team already uses.
 
 ---
 
