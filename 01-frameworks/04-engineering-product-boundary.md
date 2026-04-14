@@ -1,5 +1,3 @@
----
-
 # Where Does Product End and Engineering Begin?
 
 One of the most common grey areas in cross-functional teams is ownership of delivery artefacts — specifically, who writes Epics and Stories.
